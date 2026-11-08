@@ -22,4 +22,4 @@ All amounts are CAD. Planned amounts are allowances, and the remaining budget de
 |----|-----------------------------------|-----|------------|-------------|--------|--------------|
 |P01 | 3S LiPO Battery with XT60 11.1V   |1    | Requesting | $84.20      |  xxx   |              |            
 |P02 | 5V, 9A Step-Down Voltage Regulator|1    | Requesting | $52.60      | xxx    |              |
-|P03 | 8A, 200W adjustable stepdown      | 1/2 | Considering| $9.98 ea    | xxx    | main use for the servos, maybe a second one for the pi to replace P02 |
+|P03 | 8A, 200W adjustable stepdown      | 1/2 | Considering| $9.98 ea    | xxx    | main use for the servos, maybe a second one for the pi to replace P02, not sure itll work:  If you want to use above 5A, you need to be cautious and need a fan for exhausting excess heat." |
