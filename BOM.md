@@ -7,12 +7,14 @@
 ### Budget
 All amounts are CAD. Planned amounts are allowances, and the remaining budget depends on final quotes and loan availability.
 
-Budget item                                     Amount
-Team budget                                     $500.00
-Planned parts before tax	                      $XXX.XX
-Tax allowance at 13%	                          $XX
-Planned total before shipping	                  $XXX.XX
-Available for shipping and price changes	      $XX.XX
-Actual spend recorded	                          $0.00
+|Budget Item                             |Amount  |
+|----------------------------------------|--------|
+|Team Budget                             |$500.00 |
+|Planned parts before tax                |$XXX.XX |
+|Tax allowance at 13%                    |$XX.XX  |
+|Planned total before shipping           |$XX.XX  |
+|Available for shipping and price changes|$XX.XX  |
+|YTD spend recorded                      |$0.00   |
+
 
 ### Purchase and Quote List
