@@ -29,3 +29,17 @@ All amounts are CAD. Planned amounts are allowances, and the remaining budget de
 |P07 | LiDAR Livox Avia                  |1    | Obtained   | Obtained at no cost from Prof. Gammell | $0.00 | LiDAR with Livox Converter 2.0 - so we do not need a buck boost converter  |
 |P08 | 12V DC Motor 12kg-cm 350RPM w/Encoder | 4 | Considering | $41.43 ea | xxx | Second option for replacement DC motors, pricier than first option so we will see how much budget remaining| 
 |P09 | M9N GPS | 2 | Obtained | Obtained at no cost from Prof. Gammell| $0.00 | GPS https://holybro.com/products/m9n-gps?variant=46575105081533 | 
+
+
+
+###Component Selection and Justification
+For our autonomous snow-clearing robot, the electrical power system must supply sufficient power to the Raspberry Pi 5, four DC drive motors, two MG996R plow servos, webcam, and Livox Avia LiDAR.
+
+###Revision 1: 2026-11-12
+The proposed design uses one 3S LiPo battery, two adjustable DC-DC buck converters, and two Cytron MDD3A dual-channel motor drivers.
+
+The main goal is to create a power system that is reliable, affordable, relatively simple to integrate, and suitable for a university proof-of-concept rather than a fully commercial outdoor robot.
+
+3S 11.1V LiPO Battery (1): Supplies electrical energy to entire robot.
+ARBA PSM-162 buck converter (2)
+
