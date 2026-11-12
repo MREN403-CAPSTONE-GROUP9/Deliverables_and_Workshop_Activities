@@ -26,6 +26,6 @@ All amounts are CAD. Planned amounts are allowances, and the remaining budget de
 |P04 | Cytron MDD3A dual motor driver    | 2   | Considering| $12.63 ea   | xxx    | incase our current drivers dont work https://ca.robotshop.com/products/cytron-3a-4-16v-dual-channel-dc-motor-driver|
 |P05 | E-S Motor GM37, 12 V, 89 RPM with encoder | 4  | Considering| $19.48 ea  | xxx      | incase we need motors with higher torque https://ca.robotshop.com/products/e-s-motor-gm37-geared-motor-w-encoder-12v-89rpm|
 |P06 | Lynxmotion A4WD1 Rover            |1    |Obtained    |Obtained at no cost from 203 | $0.00 | Chassis, including 4 DC motors, wheels, and encoders. |
-|P07 | LiDAR Livox Avia                  |1    | Obtained   | Obtained at no cost from Prof. Gammell | $0.00 | LiDAR  |
+|P07 | LiDAR Livox Avia                  |1    | Obtained   | Obtained at no cost from Prof. Gammell | $0.00 | LiDAR with Livox Converter 2.0 - so we do not need a buck boost converter  |
 |P08 | 12V DC Motor 12kg-cm 350RPM w/Encoder | 4 | Considering | $41.43 ea | xxx | Second option for replacement DC motors, pricier than first option so we will see how much budget remaining| 
 |P09 | M9N GPS | 2 | Obtained | Obtained at no cost from Prof. Gammell| $0.00 | GPS https://holybro.com/products/m9n-gps?variant=46575105081533 | 
